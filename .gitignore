@@ -1,4 +1,4 @@
 /ckpt/
 *.ipynb
 PaddleOCR2Pytorch/
-.DS_Store
+*.DS_Store
