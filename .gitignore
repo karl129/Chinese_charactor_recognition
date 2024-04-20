@@ -2,3 +2,4 @@
 *.ipynb
 PaddleOCR2Pytorch/
 *.DS_Store
+__pycache__/
