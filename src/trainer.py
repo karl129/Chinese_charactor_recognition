@@ -13,7 +13,7 @@ from .models import VisionTransformer, ConvNet, Args
 
 
 def train(args):
-    logging.basicConfig(filename='train.log',                               # 指定日志文件名
+    logging.basicConfig(filename='train.log',                             # 指定日志文件名
                     filemode='w',                                         # 指定文件打开模式
                     level=logging.INFO,                                   # 指定日志级别，低于此级别的日志将被忽略
                     format='{asctime} - {lineno} - {levelname}:{message}',  # 指定日志格式 
