@@ -45,7 +45,7 @@ python trainer.py
  
 ## 许可证
 
-该项目基于 [开源许可证类型] 许可证。更多详情请查阅 [LICENSE](LICENSE) 文件。
+该项目基于 [Apache License 2.0] 许可证。更多详情请查阅 [LICENSE](LICENSE) 文件。
 
 如有任何问题或建议，请随时提出。
 
